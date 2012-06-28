@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/base/core/ant-launcher.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="CTE/lib/base/core"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/base/core/ant.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="CTE/lib/base/core"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/base/core/core.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="CTE/lib/base/core"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/user/controlP5/controlP5.jar" sourcepath="/Users/ben/Documents/Processing/libraries/controlP5/src">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/Users/ben/Documents/Processing/libraries/controlP5/reference/"/>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="CTE/lib/user/controlP5"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/user/rita/en_us.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="CTE/lib/user/rita"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/user/rita/freetts.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="CTE/lib/user/rita"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/user/rita/jsapi.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="CTE/lib/user/rita"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/user/rita/rita.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="CTE/lib/user/rita"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/user/rita/support.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="CTE/lib/user/rita"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/ben/Desktop/codelibs/twitter4j-2.2.5/lib/twitter4j-async-2.2.5.jar"/>
+	<classpathentry kind="lib" path="/Users/ben/Desktop/codelibs/twitter4j-2.2.5/lib/twitter4j-core-2.2.5.jar"/>
+	<classpathentry kind="lib" path="/Users/ben/Desktop/codelibs/twitter4j-2.2.5/lib/twitter4j-examples-2.2.5.jar"/>
+	<classpathentry kind="lib" path="/Users/ben/Desktop/codelibs/twitter4j-2.2.5/lib/twitter4j-media-support-2.2.5.jar"/>
+	<classpathentry kind="lib" path="/Users/ben/Desktop/codelibs/twitter4j-2.2.5/lib/twitter4j-stream-2.2.5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
